@@ -1,0 +1,18 @@
+{
+  "pages": {
+    "posts": {
+      "title": "Liste des articles"
+    },
+    "post": {
+      "title": "Détails de l'article"
+    },
+    "notFound": {
+      "title": "Page introuvable"
+    }
+  },
+  "components": {
+    "postList": {
+      "more": "Voir plus"
+    }
+  }
+}
